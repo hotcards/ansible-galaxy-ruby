@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  author: James Gifford, formerly Eduardo de Oliveira Hernandes
+  author: "James Gifford, formerly Eduardo de Oliveira Hernandes"
   description: Ansible role to install ruby via rbenv
   license: license (GPLv2, CC-BY, etc)
   min_ansible_version: 1.4
